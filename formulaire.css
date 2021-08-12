@@ -1,0 +1,98 @@
+
+body{
+	margin:12%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	background-color: #000;
+	background-position: center;
+}
+
+form{
+	width: 250px;
+	background-color: white;
+	padding: 12px;
+	box-shadow: 0 0 10px 2px;
+
+}
+
+label, input{
+    display: table-cell;
+    height: 25px;
+
+    
+}
+
+h1{
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+}
+
+.input{
+	padding: 10px;
+	margin: 20px;
+}
+input[type="text"]{
+	padding-left: 1.5rem;
+}
+input[type="password"]{
+	padding-left: 1.5rem;
+}
+
+.key{
+	position: relative;
+	bottom: 5px;
+	top:25px; 
+    left: 7px;
+}
+
+.btn{
+	padding: 7px;
+	text-align: center;
+	cursor: pointer;
+	color: white;
+	background-color: blue;
+	outline: none;
+	position: relative;
+	left: 5px;
+	width: 250px;
+	height: 60px;
+	font-size: 15px;
+
+}
+
+i {
+	position: relative;
+	bottom: 25px; 
+    left: 5px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
